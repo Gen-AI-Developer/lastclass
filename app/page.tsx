@@ -7,7 +7,8 @@ export default function Home() {
     <div className="main--dev">
       <NavBar />
       <div>
-        <h1>This is First Next JS Project on Vercel</h1>
+        <h1>This is Next JS Project on Vercel</h1>
+        <h2>Programmersafdar@live.com</h2>
       </div>
     </div>
   );
